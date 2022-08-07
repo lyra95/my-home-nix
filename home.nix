@@ -68,6 +68,9 @@
       set encoding=UTF-8
       set autoindent
       set smartindent
+      set shiftwidth=4
+      set softtabstop=4
+      set expandtab
       syntax enable
       colorscheme tokyonight
       filetype plugin indent on
